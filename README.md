@@ -1,6 +1,8 @@
 # Wallet.dat-ADDRESS-1EN7j4gyRGThNH3TLQ9aTGAVv2rXjBMjKz-96.95486640-BTC
 PASSWORD: BiT2018$BiTWelcomebtc Is the password that was picked up for me from the second wallet
 
+<img width="1280" height="960" alt="photo_2026-08-02_22-03-49" src="https://github.com/user-attachments/assets/23658ea8-c1d1-425a-b92c-016e1bb0cedb" />
+<img width="1280" height="960" alt="photo_2026-08-02_22-03-49 (2)" src="https://github.com/user-attachments/assets/520b2963-3962-47d6-96a5-253717810ab2" />
 
 BiT2018$BiTWelcomebtc
 PASSWORD: 2018$BiTWelcomebtc ? This is about the same password for the first wallet, but it does not fit (Maybe something is mixed up somewhere or not enough!Well, they tried to pick it up until they could not!So try it, maybe you'll get lucky!
